@@ -1,0 +1,176 @@
+body{font-family: "Montserrat", sans-serif;   color: #fff;
+ height:;}
+#title{background-color: #ff4c68;
+color: #fff}
+.navbar-brand{
+font-family:"Ubuntu";
+  font-size:2.5rem;
+  font-weight:bold;
+  color: #fff;
+  line-height:"1.5";
+padding-left: 0;
+}
+.navbar-nav .nav-link.active{
+  color: #D3D3D3;
+}
+h1{font-family: 'Montserrat-black'sans-serif;
+font-size:"3.5rem";
+line-height:"1.5";
+font-weight:bold;}
+.container-fluid{
+  padding: 3% 15%
+}
+.nav-link{
+font-family: "Montserrat-light";
+  padding:0 10px;
+  font-size: 1.2rem;
+
+}
+.phone{
+width: 60%;
+transform: rotate(25deg);
+position: relative;
+left: 20%;
+}
+#dog{border-radius: 100%
+;margin: 20px;
+  width:15%;
+;
+
+}
+.navbar{
+  padding-bottom: 100px;
+}
+.button{ margin:5% 3% 5% 0%}
+.row{
+}
+#features{
+color:#000;
+height: 100%;
+width: 100%;
+padding: 100px;
+;
+text-align: center;
+background-color: #fff;
+position: relative;
+z-index: 0;
+}
+.fa-check-circle{
+  color:#ff4c68;
+font-size:4.5rem;
+margin-bottom: 1rem;}
+.fa-check-circle:hover { color: red;}
+
+
+.fa-bullseye{
+  color:#ff4c68;
+font-size:4.5rem;margin-bottom: 1rem;}
+.fa-bullseye:hover { color:red;}
+
+  .fa-heart{
+    color:#ff4c68;
+    font-size:4.5rem;margin-bottom: 1rem;
+  }
+  .fa-heart:hover { color:red;}
+.head{font-family: 'Montserrat'sans-serif;
+font-weight:900px; }
+.p{text-decoration-color: #000;}
+.testimony{$font-family: "sacramento";
+font-size:"6.5rem";
+line-height:"1.5";
+$font-weight:bold;}
+.container-fluid{
+  padding: 7% 15%;
+width: 100%;
+}
+
+}
+.head{font-weight:900px;}
+#testimonies{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 5% 10%;
+}
+
+.ref{
+  text-align: left;
+  display: inline;
+}
+#ref{
+  background-color: #ff4c68;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.iref{width: 15%;
+margin: 20px;}
+.card{
+
+}
+.Pricing{
+  text-decoration-color: #000;
+text-align: center;
+padding: 10px 5%;
+}
+.tag{margin: 5% 2%;}
+.btn{
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: ;
+  text-align: center;
+}
+#other{
+  position: relative;
+  bottom: 250px;
+  margin-bottom: 0;
+}
+@media (max-width: 1028px) {
+  #Download{
+    position: relative;
+    top: 50px;
+  }
+  #contact{
+    position: relative;
+    top: 50px;
+  }
+.twi{
+  width: 10%;
+}
+  .ffinal{
+    padding-bottom: 20px;
+  }
+  .ficon{
+    font-size: 70%;
+  }
+  #title{
+    text-align: center;
+  }
+  .phone{
+    transform: rotate(0);
+    position: static;
+  }
+  #other{
+    position: relative;
+    top: 50px;
+  }
+}
+.final{
+  background-color: #ff4c68;
+width: 100%;
+padding: 7% 15%;
+text-align: center;
+}
+.ffinal{
+  height:auto;
+  color: #000;
+  text-align: center;
+  padding-top: 10%;
+}
+.ficon{
+  font-size: 2rem;
+  padding: 7px;
+}
+.twi{
+  width: 1.5%;
+  position: relative;
+  bottom: 8px;
+}
